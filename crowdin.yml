@@ -1,5 +1,5 @@
 files:
-  - source: /en/*.po
+  - source: /en/*.json
     translation: /%two_letters_code%/%original_file_name%
     translation_replace:
       ge: en
