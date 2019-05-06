@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: github-integrating-test\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
 "POT-Creation-Date: 2019-02-16 09:53+0000\n"
-"PO-Revision-Date: 2019-05-06 15:18\n"
+"PO-Revision-Date: 2019-05-06 15:23\n"
 "Last-Translator: Olia Kukhta (OliaK)\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -21,21 +21,21 @@ msgstr ""
 #: data/base/messages/strings/cam1strings.txt:3
 #: data/base/sequenceaudio/cam1/c001.txa:12
 msgid "OBJECTIVE: Locate and recover neural synapse technology"
-msgstr ""
+msgstr "OBJECTIVE: Locate and recover neural synapse technology"
 
 #: data/base/messages/strings/cam1strings.txt:4
 #: data/base/sequenceaudio/cam1/c001.txa:13
 msgid "Establish a base, then search for a Pre-Collapse structure."
-msgstr ""
+msgstr "Establish a base, then search for a Pre-Collapse structure."
 
 #: data/base/messages/strings/cam1strings.txt:5
 #: data/base/sequenceaudio/cam1/c001.txa:14
 msgid "This structure contains technology vital for the success of the Project."
-msgstr ""
+msgstr "This structure contains technology vital for the success of the Project."
 
 #: data/base/messages/strings/cam1strings.txt:7
 msgid "ALPHA BASE MISSION: Scavenger Raiders"
-msgstr ""
+msgstr "ALPHA BASE MISSION: Scavenger Raiders"
 
 #: data/base/messages/strings/cam1strings.txt:8
 msgid "Scavenger raiders are approaching our base."
