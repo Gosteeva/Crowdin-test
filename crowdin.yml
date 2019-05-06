@@ -1,6 +1,5 @@
 files:
   - source: /en/*.po
-    translation: /%two_letters_code%/%original_file_name%
-    translation_replace: {
-    "ge" : "en"
-}
+    translation: /%two_letters_code%/not-%original_file_name%
+    translation_replace:
+      ge: en
