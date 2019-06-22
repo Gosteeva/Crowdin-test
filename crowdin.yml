@@ -5,10 +5,10 @@ files: [
 "source": "/en/*.json",
  "translation": "/%two_letters_code%/%original_file_name%",
 
-"languages_mapping" : {
-"locale_with_underscore" : {
-"af_ZA" : "af",
-"ar_SA" : "ar",
+"languages_mapping": {
+"locale_with_underscore": {
+"af_ZA": "af",
+"ar_SA": "ar",
 "ca_ES": "ca",
 "cs_CZ": "cs",
 "da_DK": "da",
