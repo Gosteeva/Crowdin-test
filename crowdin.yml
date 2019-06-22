@@ -1,5 +1,15 @@
 files:
   - source: /en/*.json
     translation: /%two_letters_code%/%original_file_name%
+
+    languages_mapping: 
+      two_letters_code: 
+        zh-CN: zh_CH
+        zh-TW: zh_TW
+        pt-PT: pt_PT
+        pt-BR: pt_BR
+        es-ES: es_ES
+        sv-SE: sv_SE
+
     translation_replace:
       ge: en
