@@ -3,7 +3,7 @@ files:
 files: [
 {
 "source": "/en/*.json",
- "translation": "/%two_letters_code%/%original_file_name%",
+ "translation": "/%locale_with_underscore%/%original_file_name%",
 
 "languages_mapping": {
 "locale_with_underscore": {
@@ -14,22 +14,22 @@ files: [
 "da_DK": "da",
 "nl_NL": "nl",
 "fi_FI": "fi",
-"fr_FR":"fr",
-"de_DE":"de",
-"el_GR":"el",
-"he_IL":"he",
-"hu_HU":"hu",
-"it_IT":"it",
-"ja_JP":"ja",
-"ko_KR":"ko",
-"no_NO":"no",
-"pl_PL":"pl",
-"ro_RO":"ro",
-"ru_RU":"ru",
-"sr_SP":"sr",
-"tr_TR":"tr",
-"uk_UA":"uk",
-"vi_VN":"vi"
+"fr_FR": "fr",
+"de_DE": "de",
+"el_GR": "el",
+"he_IL": "he",
+"hu_HU": "hu",
+"it_IT": "it",
+"ja_JP": "ja",
+"ko_KR": "ko",
+"no_NO": "no",
+"pl_PL": "pl",
+"ro_RO": "ro",
+"ru_RU": "ru",
+"sr_SP": "sr",
+"tr_TR": "tr",
+"uk_UA": "uk",
+"vi_VN": "vi"
 }
 },
 ]
