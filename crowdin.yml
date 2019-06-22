@@ -1,9 +1,9 @@
 files:
   - source: /en/*.json
     translation: /%locale_with_underscore%/%original_file_name%
-    languages_mapping:
-      locale_with_underscore:
-        af_ZA: af
+    languages_mapping:{
+      locale_with_underscore:{
+        "af_ZA": "af",
         ar_SA: ar
         ca_ES: ca
         cs_CZ: cs
@@ -26,4 +26,5 @@ files:
         tr_TR: tr
         uk_UA: uk
         vi_VN: vi
-
+}
+}
