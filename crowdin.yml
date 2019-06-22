@@ -3,7 +3,7 @@ files:
     translation: /%two_letters_code%/%original_file_name%
 
     languages_mapping: 
-      two_letters_code: 
+      locale_with_underscore: 
         zh-CN: zh_CH
         zh-TW: zh_TW
         pt-PT: pt_PT
