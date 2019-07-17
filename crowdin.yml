@@ -3,28 +3,4 @@ append_commit_message: false
 files:
   - source: /en/*.json
     translation: /%locale_with_underscore%/%original_file_name%
-    languages_mapping:
-      locale_with_underscore:
-        af: af
-        ar: ar
-        ca: ca
-        cs: cs
-        da: da
-        nl: nl
-        fi: fi
-        fr: fr
-        de: de
-        el: el
-        he: he
-        hu: hu
-        it: it
-        ja: ja
-        ko: ko
-        no: no
-        pl: pl
-        ro: ro
-        ru: ru
-        sr: sr
-        tr: tr
-        uk: uk
-        vi: vi
+    
