@@ -1,5 +1,5 @@
-"commit_message": "Fix: some"                
-"append_commit_message": false
+commit_message: "Fix: some"                
+append_commit_message: false
 files:
   - source: /en/*.json
     translation: /%two_letters_code%/%original_file_name%
