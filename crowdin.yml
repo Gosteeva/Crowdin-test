@@ -1,5 +1,5 @@
 commit_message: 'Fix: Master'
 append_commit_message: false
 files:
-  - source: /**/*.json
+  - source: /en/*.json
     translation: /%locale_with_underscore%/%original_file_name%
